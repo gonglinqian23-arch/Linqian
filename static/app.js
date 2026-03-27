@@ -1,4 +1,4 @@
-console.log("Anime Graph Explorer: app_en.js loaded v1.1");
+console.log("Anime Graph Explorer: app.js loaded v1.1");
 
 let cy = null;
 let currentCenterName = "";
