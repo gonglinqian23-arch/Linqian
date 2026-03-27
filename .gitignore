@@ -7,3 +7,9 @@ node_modules/
 .DS_Store
 backend/venv/
 backend/__pycache__/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
